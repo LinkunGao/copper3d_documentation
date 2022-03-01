@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Copper3D documentation's documentation!
+Copper3d.js documentation
 ==================================================
+A web-based library for visualising and interacting with 3D computer models and medical images.
+
+Contents
+^^^^^^^^
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   Introduction/index
+   API/index
+   Tutorials/index
+   FAQ/index
